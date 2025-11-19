@@ -7,7 +7,6 @@ st.markdown(""" <style>
 footer {visibility: hidden;}
 </style> """, unsafe_allow_html=True)
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title("Sankey Plot for Process Flow Generator")
 st.write("*By:* A. Vera")
